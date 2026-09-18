@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "FaltuBlock.aternos.me",
+    "port": 36388,
     "version": "",
     "try-creative": false
   },
